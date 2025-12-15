@@ -1,5 +1,5 @@
 # trivia
-Duncan wachira
-ivy Nzilani
-Erick Mumina
+Duncan wachira,  
+ivy Nzilani,  
+Erick Mumina,  
 abdiaziz abdulahi
